@@ -3,13 +3,13 @@
 ![use look like]('./public/move.gif')
 ##how to use
 ```
-cnpm i react-bar1
+cnpm i react-swiper1
 
 
 import React, { Component } from 'react'
 import ReactROM from 'react-dom'
 
-import App from 'react-bar1'
+import App from 'react-swiper1'
 
 var lists = [
     {
