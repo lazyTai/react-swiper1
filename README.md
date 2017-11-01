@@ -1,5 +1,7 @@
-search-bar
-#how to use
+#search-bar
+##use look like
+![use look like]('./public/move.gif')
+##how to use
 ```
 cnpm i react-search-bar1
 
@@ -25,5 +27,12 @@ ReactROM.render(<App lists={lists} />, document.getElementById('root'))
 
 
 
+
+```
+
+for git
+```
+git remote add origin https://github.com/lazyTai/react-swiper1.git
+git push -u origin master
 
 ```
