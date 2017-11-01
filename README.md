@@ -1,6 +1,7 @@
 #search-bar
 ##use look like
-![use look like]('./public/move.gif')
+![use look like](./public/move.gif)
+
 ##how to use
 ```
 cnpm i react-swiper1
